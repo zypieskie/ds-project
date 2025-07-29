@@ -35,7 +35,7 @@ Matplotlib, Seaborn, Power BI
 ## 📫 Contact Me
 
 - 📧 Email: **muhdhanafi0807@gmail.com**  
-- 💼 LinkedIn: [LinkedIn Profile]([www.linkedin.com/in/hnfimzlan](https://www.linkedin.com/in/hnfimzlan/))  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hnfimzlan/)
 
 ---
 
